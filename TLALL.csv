@@ -1,0 +1,1299 @@
+Node,Group_abrev,Group_name,Model_name,TL,Value
+1,Phyto,Phytoplankton,RAB,I,3637
+1,Phyto,Phytoplankton,RAB,II,0
+1,Phyto,Phytoplankton,RAB,III,0
+1,Phyto,Phytoplankton,RAB,IV,0
+1,Phyto,Phytoplankton,RAB,V,0
+1,Phyto,Phytoplankton,RAB,VI,0
+1,Phyto,Phytoplankton,RAB,VII,0
+1,Phyto,Phytoplankton,RAB,VIII,0
+1,Phyto,Phytoplankton,RAB,IX,0
+1,Phyto,Phytoplankton,RAB,X,0
+1,Phyto,Phytoplankton,RAB,XI,0
+1,Phyto,Phytoplankton,CAB,I,3637
+1,Phyto,Phytoplankton,CAB,II,0
+1,Phyto,Phytoplankton,CAB,III,0
+1,Phyto,Phytoplankton,CAB,IV,0
+1,Phyto,Phytoplankton,CAB,V,0
+1,Phyto,Phytoplankton,CAB,VI,0
+1,Phyto,Phytoplankton,CAB,VII,0
+1,Phyto,Phytoplankton,CAB,VIII,0
+1,Phyto,Phytoplankton,CAB,IX,0
+1,Phyto,Phytoplankton,CAB,X,0
+1,Phyto,Phytoplankton,CAB,XI,0
+2,Bact,Bacteria,RAB,I,0
+2,Bact,Bacteria,RAB,II,698.4
+2,Bact,Bacteria,RAB,III,0
+2,Bact,Bacteria,RAB,IV,0
+2,Bact,Bacteria,RAB,V,0
+2,Bact,Bacteria,RAB,VI,0
+2,Bact,Bacteria,RAB,VII,0
+2,Bact,Bacteria,RAB,VIII,0
+2,Bact,Bacteria,RAB,IX,0
+2,Bact,Bacteria,RAB,X,0
+2,Bact,Bacteria,RAB,XI,0
+2,Bact,Bacteria,CAB,I,0
+2,Bact,Bacteria,CAB,II,698.4
+2,Bact,Bacteria,CAB,III,0
+2,Bact,Bacteria,CAB,IV,0
+2,Bact,Bacteria,CAB,V,0
+2,Bact,Bacteria,CAB,VI,0
+2,Bact,Bacteria,CAB,VII,0
+2,Bact,Bacteria,CAB,VIII,0
+2,Bact,Bacteria,CAB,IX,0
+2,Bact,Bacteria,CAB,X,0
+2,Bact,Bacteria,CAB,XI,0
+3,Microzoo,Microzooplankton,RAB,I,0
+3,Microzoo,Microzooplankton,RAB,II,599
+3,Microzoo,Microzooplankton,RAB,III,167.3
+3,Microzoo,Microzooplankton,RAB,IV,0
+3,Microzoo,Microzooplankton,RAB,V,0
+3,Microzoo,Microzooplankton,RAB,VI,0
+3,Microzoo,Microzooplankton,RAB,VII,0
+3,Microzoo,Microzooplankton,RAB,VIII,0
+3,Microzoo,Microzooplankton,RAB,IX,0
+3,Microzoo,Microzooplankton,RAB,X,0
+3,Microzoo,Microzooplankton,RAB,XI,0
+3,Microzoo,Microzooplankton,CAB,I,0
+3,Microzoo,Microzooplankton,CAB,II,599
+3,Microzoo,Microzooplankton,CAB,III,167.3
+3,Microzoo,Microzooplankton,CAB,IV,0
+3,Microzoo,Microzooplankton,CAB,V,0
+3,Microzoo,Microzooplankton,CAB,VI,0
+3,Microzoo,Microzooplankton,CAB,VII,0
+3,Microzoo,Microzooplankton,CAB,VIII,0
+3,Microzoo,Microzooplankton,CAB,IX,0
+3,Microzoo,Microzooplankton,CAB,X,0
+3,Microzoo,Microzooplankton,CAB,XI,0
+4,Cop-S,Small Copepods,RAB,I,0
+4,Cop-S,Small Copepods,RAB,II,913.1
+4,Cop-S,Small Copepods,RAB,III,66.07
+4,Cop-S,Small Copepods,RAB,IV,18.46
+4,Cop-S,Small Copepods,RAB,V,0
+4,Cop-S,Small Copepods,RAB,VI,0
+4,Cop-S,Small Copepods,RAB,VII,0
+4,Cop-S,Small Copepods,RAB,VIII,0
+4,Cop-S,Small Copepods,RAB,IX,0
+4,Cop-S,Small Copepods,RAB,X,0
+4,Cop-S,Small Copepods,RAB,XI,0
+4,Cop-S,Small Copepods,CAB,I,0
+4,Cop-S,Small Copepods,CAB,II,913.1
+4,Cop-S,Small Copepods,CAB,III,66.07
+4,Cop-S,Small Copepods,CAB,IV,18.46
+4,Cop-S,Small Copepods,CAB,V,0
+4,Cop-S,Small Copepods,CAB,VI,0
+4,Cop-S,Small Copepods,CAB,VII,0
+4,Cop-S,Small Copepods,CAB,VIII,0
+4,Cop-S,Small Copepods,CAB,IX,0
+4,Cop-S,Small Copepods,CAB,X,0
+4,Cop-S,Small Copepods,CAB,XI,0
+5,Cop-L,Large Copepods,RAB,I,0
+5,Cop-L,Large Copepods,RAB,II,699.5
+5,Cop-L,Large Copepods,RAB,III,121.3
+5,Cop-L,Large Copepods,RAB,IV,12.93
+5,Cop-L,Large Copepods,RAB,V,2.047
+5,Cop-L,Large Copepods,RAB,VI,0
+5,Cop-L,Large Copepods,RAB,VII,0
+5,Cop-L,Large Copepods,RAB,VIII,0
+5,Cop-L,Large Copepods,RAB,IX,0
+5,Cop-L,Large Copepods,RAB,X,0
+5,Cop-L,Large Copepods,RAB,XI,0
+5,Cop-L,Large Copepods,CAB,I,0
+5,Cop-L,Large Copepods,CAB,II,699.5
+5,Cop-L,Large Copepods,CAB,III,121.3
+5,Cop-L,Large Copepods,CAB,IV,12.93
+5,Cop-L,Large Copepods,CAB,V,2.047
+5,Cop-L,Large Copepods,CAB,VI,0
+5,Cop-L,Large Copepods,CAB,VII,0
+5,Cop-L,Large Copepods,CAB,VIII,0
+5,Cop-L,Large Copepods,CAB,IX,0
+5,Cop-L,Large Copepods,CAB,X,0
+5,Cop-L,Large Copepods,CAB,XI,0
+6,GelZoop,Gelatinous Zooplankton,RAB,I,0
+6,GelZoop,Gelatinous Zooplankton,RAB,II,35.32
+6,GelZoop,Gelatinous Zooplankton,RAB,III,98.81
+6,GelZoop,Gelatinous Zooplankton,RAB,IV,11.17
+6,GelZoop,Gelatinous Zooplankton,RAB,V,1.814
+6,GelZoop,Gelatinous Zooplankton,RAB,VI,0.102
+6,GelZoop,Gelatinous Zooplankton,RAB,VII,0
+6,GelZoop,Gelatinous Zooplankton,RAB,VIII,0
+6,GelZoop,Gelatinous Zooplankton,RAB,IX,0
+6,GelZoop,Gelatinous Zooplankton,RAB,X,0
+6,GelZoop,Gelatinous Zooplankton,RAB,XI,0
+6,GelZoop,Gelatinous Zooplankton,CAB,I,0
+6,GelZoop,Gelatinous Zooplankton,CAB,II,35.32
+6,GelZoop,Gelatinous Zooplankton,CAB,III,98.81
+6,GelZoop,Gelatinous Zooplankton,CAB,IV,11.17
+6,GelZoop,Gelatinous Zooplankton,CAB,V,1.816
+6,GelZoop,Gelatinous Zooplankton,CAB,VI,0.102
+6,GelZoop,Gelatinous Zooplankton,CAB,VII,0
+6,GelZoop,Gelatinous Zooplankton,CAB,VIII,0
+6,GelZoop,Gelatinous Zooplankton,CAB,IX,0
+6,GelZoop,Gelatinous Zooplankton,CAB,X,0
+6,GelZoop,Gelatinous Zooplankton,CAB,XI,0
+7,Micronek,Micronekton,RAB,I,0
+7,Micronek,Micronekton,RAB,II,316.9
+7,Micronek,Micronekton,RAB,III,289.2
+7,Micronek,Micronekton,RAB,IV,42.2
+7,Micronek,Micronekton,RAB,V,5.483
+7,Micronek,Micronekton,RAB,VI,0.616
+7,Micronek,Micronekton,RAB,VII,0
+7,Micronek,Micronekton,RAB,VIII,0
+7,Micronek,Micronekton,RAB,IX,0
+7,Micronek,Micronekton,RAB,X,0
+7,Micronek,Micronekton,RAB,XI,0
+7,Micronek,Micronekton,CAB,I,0
+7,Micronek,Micronekton,CAB,II,251.4
+7,Micronek,Micronekton,CAB,III,349.1
+7,Micronek,Micronekton,CAB,IV,46.54
+7,Micronek,Micronekton,CAB,V,6.694
+7,Micronek,Micronekton,CAB,VI,0.616
+7,Micronek,Micronekton,CAB,VII,0
+7,Micronek,Micronekton,CAB,VIII,0
+7,Micronek,Micronekton,CAB,IX,0
+7,Micronek,Micronekton,CAB,X,0
+7,Micronek,Micronekton,CAB,XI,0
+8,MacroB-poly,Macrobenthos polychaete,RAB,I,0
+8,MacroB-poly,Macrobenthos polychaete,RAB,II,191
+8,MacroB-poly,Macrobenthos polychaete,RAB,III,58.74
+8,MacroB-poly,Macrobenthos polychaete,RAB,IV,9.662
+8,MacroB-poly,Macrobenthos polychaete,RAB,V,1.447
+8,MacroB-poly,Macrobenthos polychaete,RAB,VI,0.193
+8,MacroB-poly,Macrobenthos polychaete,RAB,VII,0.0225
+8,MacroB-poly,Macrobenthos polychaete,RAB,VIII,0
+8,MacroB-poly,Macrobenthos polychaete,RAB,IX,0
+8,MacroB-poly,Macrobenthos polychaete,RAB,X,0
+8,MacroB-poly,Macrobenthos polychaete,RAB,XI,0
+8,MacroB-poly,Macrobenthos polychaete,CAB,I,0
+8,MacroB-poly,Macrobenthos polychaete,CAB,II,188
+8,MacroB-poly,Macrobenthos polychaete,CAB,III,55.91
+8,MacroB-poly,Macrobenthos polychaete,CAB,IV,11.21
+8,MacroB-poly,Macrobenthos polychaete,CAB,V,1.575
+8,MacroB-poly,Macrobenthos polychaete,CAB,VI,0.231
+8,MacroB-poly,Macrobenthos polychaete,CAB,VII,0.0233
+8,MacroB-poly,Macrobenthos polychaete,CAB,VIII,0.000274
+8,MacroB-poly,Macrobenthos polychaete,CAB,IX,0
+8,MacroB-poly,Macrobenthos polychaete,CAB,X,0
+8,MacroB-poly,Macrobenthos polychaete,CAB,XI,0
+9,MacroB-crus,Macrobenthos crustaceans,RAB,I,0
+9,MacroB-crus,Macrobenthos crustaceans,RAB,II,75.52
+9,MacroB-crus,Macrobenthos crustaceans,RAB,III,45.76
+9,MacroB-crus,Macrobenthos crustaceans,RAB,IV,9.331
+9,MacroB-crus,Macrobenthos crustaceans,RAB,V,1.386
+9,MacroB-crus,Macrobenthos crustaceans,RAB,VI,0.196
+9,MacroB-crus,Macrobenthos crustaceans,RAB,VII,0.0234
+9,MacroB-crus,Macrobenthos crustaceans,RAB,VIII,0.00171
+9,MacroB-crus,Macrobenthos crustaceans,RAB,IX,0
+9,MacroB-crus,Macrobenthos crustaceans,RAB,X,0
+9,MacroB-crus,Macrobenthos crustaceans,RAB,XI,0
+9,MacroB-crus,Macrobenthos crustaceans,CAB,I,0
+9,MacroB-crus,Macrobenthos crustaceans,CAB,II,65.71
+9,MacroB-crus,Macrobenthos crustaceans,CAB,III,45.41
+9,MacroB-crus,Macrobenthos crustaceans,CAB,IV,10.66
+9,MacroB-crus,Macrobenthos crustaceans,CAB,V,1.743
+9,MacroB-crus,Macrobenthos crustaceans,CAB,VI,0.253
+9,MacroB-crus,Macrobenthos crustaceans,CAB,VII,0.0313
+9,MacroB-crus,Macrobenthos crustaceans,CAB,VIII,0.00247
+9,MacroB-crus,Macrobenthos crustaceans,CAB,IX,0
+9,MacroB-crus,Macrobenthos crustaceans,CAB,X,0
+9,MacroB-crus,Macrobenthos crustaceans,CAB,XI,0
+10,MacroB-moll,Macrobenthos mollusks,RAB,I,0
+10,MacroB-moll,Macrobenthos mollusks,RAB,II,87.41
+10,MacroB-moll,Macrobenthos mollusks,RAB,III,26.2
+10,MacroB-moll,Macrobenthos mollusks,RAB,IV,2.311
+10,MacroB-moll,Macrobenthos mollusks,RAB,V,0.351
+10,MacroB-moll,Macrobenthos mollusks,RAB,VI,0.0478
+10,MacroB-moll,Macrobenthos mollusks,RAB,VII,0.0057
+10,MacroB-moll,Macrobenthos mollusks,RAB,VIII,0
+10,MacroB-moll,Macrobenthos mollusks,RAB,IX,0
+10,MacroB-moll,Macrobenthos mollusks,RAB,X,0
+10,MacroB-moll,Macrobenthos mollusks,RAB,XI,0
+10,MacroB-moll,Macrobenthos mollusks,CAB,I,0
+10,MacroB-moll,Macrobenthos mollusks,CAB,II,87.41
+10,MacroB-moll,Macrobenthos mollusks,CAB,III,25.8
+10,MacroB-moll,Macrobenthos mollusks,CAB,IV,2.67
+10,MacroB-moll,Macrobenthos mollusks,CAB,V,0.389
+10,MacroB-moll,Macrobenthos mollusks,CAB,VI,0.0579
+10,MacroB-moll,Macrobenthos mollusks,CAB,VII,0.0062
+10,MacroB-moll,Macrobenthos mollusks,CAB,VIII,0.000119
+10,MacroB-moll,Macrobenthos mollusks,CAB,IX,0
+10,MacroB-moll,Macrobenthos mollusks,CAB,X,0
+10,MacroB-moll,Macrobenthos mollusks,CAB,XI,0
+11,MacroB-oth,Macrobenthos others,RAB,I,0
+11,MacroB-oth,Macrobenthos others,RAB,II,93.22
+11,MacroB-oth,Macrobenthos others,RAB,III,47.41
+11,MacroB-oth,Macrobenthos others,RAB,IV,8.61
+11,MacroB-oth,Macrobenthos others,RAB,V,1.341
+11,MacroB-oth,Macrobenthos others,RAB,VI,0.189
+11,MacroB-oth,Macrobenthos others,RAB,VII,0.0236
+11,MacroB-oth,Macrobenthos others,RAB,VIII,0.00157
+11,MacroB-oth,Macrobenthos others,RAB,IX,0
+11,MacroB-oth,Macrobenthos others,RAB,X,0
+11,MacroB-oth,Macrobenthos others,RAB,XI,0
+11,MacroB-oth,Macrobenthos others,CAB,I,0
+11,MacroB-oth,Macrobenthos others,CAB,II,88.39
+11,MacroB-oth,Macrobenthos others,CAB,III,43.78
+11,MacroB-oth,Macrobenthos others,CAB,IV,9.041
+11,MacroB-oth,Macrobenthos others,CAB,V,1.455
+11,MacroB-oth,Macrobenthos others,CAB,VI,0.216
+11,MacroB-oth,Macrobenthos others,CAB,VII,0.026
+11,MacroB-oth,Macrobenthos others,CAB,VIII,0.00179
+11,MacroB-oth,Macrobenthos others,CAB,IX,0
+11,MacroB-oth,Macrobenthos others,CAB,X,0
+11,MacroB-oth,Macrobenthos others,CAB,XI,0
+12,MegaB-filt,Megabenthos filters,RAB,I,0
+12,MegaB-filt,Megabenthos filters,RAB,II,44.14
+12,MegaB-filt,Megabenthos filters,RAB,III,5.345
+12,MegaB-filt,Megabenthos filters,RAB,IV,0
+12,MegaB-filt,Megabenthos filters,RAB,V,0
+12,MegaB-filt,Megabenthos filters,RAB,VI,0
+12,MegaB-filt,Megabenthos filters,RAB,VII,0
+12,MegaB-filt,Megabenthos filters,RAB,VIII,0
+12,MegaB-filt,Megabenthos filters,RAB,IX,0
+12,MegaB-filt,Megabenthos filters,RAB,X,0
+12,MegaB-filt,Megabenthos filters,RAB,XI,0
+12,MegaB-filt,Megabenthos filters,CAB,I,0
+12,MegaB-filt,Megabenthos filters,CAB,II,44.14
+12,MegaB-filt,Megabenthos filters,CAB,III,5.345
+12,MegaB-filt,Megabenthos filters,CAB,IV,0
+12,MegaB-filt,Megabenthos filters,CAB,V,0
+12,MegaB-filt,Megabenthos filters,CAB,VI,0
+12,MegaB-filt,Megabenthos filters,CAB,VII,0
+12,MegaB-filt,Megabenthos filters,CAB,VIII,0
+12,MegaB-filt,Megabenthos filters,CAB,IX,0
+12,MegaB-filt,Megabenthos filters,CAB,X,0
+12,MegaB-filt,Megabenthos filters,CAB,XI,0
+13,MegaB-oth,Megabenthos others,RAB,I,0
+13,MegaB-oth,Megabenthos others,RAB,II,13.41
+13,MegaB-oth,Megabenthos others,RAB,III,23.34
+13,MegaB-oth,Megabenthos others,RAB,IV,5.144
+13,MegaB-oth,Megabenthos others,RAB,V,0.839
+13,MegaB-oth,Megabenthos others,RAB,VI,0.127
+13,MegaB-oth,Megabenthos others,RAB,VII,0.0176
+13,MegaB-oth,Megabenthos others,RAB,VIII,0.00211
+13,MegaB-oth,Megabenthos others,RAB,IX,6.00E-05
+13,MegaB-oth,Megabenthos others,RAB,X,0
+13,MegaB-oth,Megabenthos others,RAB,XI,0
+13,MegaB-oth,Megabenthos others,CAB,I,0
+13,MegaB-oth,Megabenthos others,CAB,II,11.06
+13,MegaB-oth,Megabenthos others,CAB,III,24.23
+13,MegaB-oth,Megabenthos others,CAB,IV,6.244
+13,MegaB-oth,Megabenthos others,CAB,V,1.142
+13,MegaB-oth,Megabenthos others,CAB,VI,0.178
+13,MegaB-oth,Megabenthos others,CAB,VII,0.0261
+13,MegaB-oth,Megabenthos others,CAB,VIII,0.00303
+13,MegaB-oth,Megabenthos others,CAB,IX,0.000093
+13,MegaB-oth,Megabenthos others,CAB,X,0
+13,MegaB-oth,Megabenthos others,CAB,XI,0
+14,Shrimp,Shrimp,RAB,I,0
+14,Shrimp,Shrimp,RAB,II,5.341
+14,Shrimp,Shrimp,RAB,III,8.132
+14,Shrimp,Shrimp,RAB,IV,1.413
+14,Shrimp,Shrimp,RAB,V,0.225
+14,Shrimp,Shrimp,RAB,VI,0.0315
+14,Shrimp,Shrimp,RAB,VII,0.00391
+14,Shrimp,Shrimp,RAB,VIII,2.27E-04
+14,Shrimp,Shrimp,RAB,IX,0
+14,Shrimp,Shrimp,RAB,X,0
+14,Shrimp,Shrimp,RAB,XI,0
+14,Shrimp,Shrimp,CAB,I,0
+14,Shrimp,Shrimp,CAB,II,3.456
+14,Shrimp,Shrimp,CAB,III,5.124
+14,Shrimp,Shrimp,CAB,IV,1.031
+14,Shrimp,Shrimp,CAB,V,0.161
+14,Shrimp,Shrimp,CAB,VI,0.0243
+14,Shrimp,Shrimp,CAB,VII,0.00282
+14,Shrimp,Shrimp,CAB,VIII,0.000184
+14,Shrimp,Shrimp,CAB,IX,0
+14,Shrimp,Shrimp,CAB,X,0
+14,Shrimp,Shrimp,CAB,XI,0
+15,Mesopel,Mesopelagic,RAB,I,0
+15,Mesopel,Mesopelagic,RAB,II,0.00112
+15,Mesopel,Mesopelagic,RAB,III,0.409
+15,Mesopel,Mesopelagic,RAB,IV,0.0839
+15,Mesopel,Mesopelagic,RAB,V,0.0123
+15,Mesopel,Mesopelagic,RAB,VI,0.00157
+15,Mesopel,Mesopelagic,RAB,VII,1.08E-04
+15,Mesopel,Mesopelagic,RAB,VIII,1.00E-05
+15,Mesopel,Mesopelagic,RAB,IX,0
+15,Mesopel,Mesopelagic,RAB,X,0
+15,Mesopel,Mesopelagic,RAB,XI,0
+15,Mesopel,Mesopelagic,CAB,I,0
+15,Mesopel,Mesopelagic,CAB,II,0.000609
+15,Mesopel,Mesopelagic,CAB,III,0.22
+15,Mesopel,Mesopelagic,CAB,IV,0.0468
+15,Mesopel,Mesopelagic,CAB,V,0.0072
+15,Mesopel,Mesopelagic,CAB,VI,0.000955
+15,Mesopel,Mesopelagic,CAB,VII,0.000073
+15,Mesopel,Mesopelagic,CAB,VIII,0.000007
+15,Mesopel,Mesopelagic,CAB,IX,0
+15,Mesopel,Mesopelagic,CAB,X,0
+15,Mesopel,Mesopelagic,CAB,XI,0
+16,Herring,Atlantic herring,RAB,I,0
+16,Herring,Atlantic herring,RAB,II,0
+16,Herring,Atlantic herring,RAB,III,31.21
+16,Herring,Atlantic herring,RAB,IV,14.09
+16,Herring,Atlantic herring,RAB,V,2.264
+16,Herring,Atlantic herring,RAB,VI,0.302
+16,Herring,Atlantic herring,RAB,VII,0.0294
+16,Herring,Atlantic herring,RAB,VIII,9.96E-04
+16,Herring,Atlantic herring,RAB,IX,0
+16,Herring,Atlantic herring,RAB,X,0
+16,Herring,Atlantic herring,RAB,XI,0
+16,Herring,Atlantic herring,CAB,I,0
+16,Herring,Atlantic herring,CAB,II,0
+16,Herring,Atlantic herring,CAB,III,16.97
+16,Herring,Atlantic herring,CAB,IV,9.5
+16,Herring,Atlantic herring,CAB,V,1.713
+16,Herring,Atlantic herring,CAB,VI,0.237
+16,Herring,Atlantic herring,CAB,VII,0.0231
+16,Herring,Atlantic herring,CAB,VIII,0.00103
+16,Herring,Atlantic herring,CAB,IX,0
+16,Herring,Atlantic herring,CAB,X,0
+16,Herring,Atlantic herring,CAB,XI,0
+17,Alosines,Alosines,RAB,I,0
+17,Alosines,Alosines,RAB,II,0
+17,Alosines,Alosines,RAB,III,4.242
+17,Alosines,Alosines,RAB,IV,1.417
+17,Alosines,Alosines,RAB,V,0.266
+17,Alosines,Alosines,RAB,VI,0.0304
+17,Alosines,Alosines,RAB,VII,0.0039
+17,Alosines,Alosines,RAB,VIII,3.05E-04
+17,Alosines,Alosines,RAB,IX,1.20E-05
+17,Alosines,Alosines,RAB,X,0
+17,Alosines,Alosines,RAB,XI,0
+17,Alosines,Alosines,CAB,I,0
+17,Alosines,Alosines,CAB,II,0
+17,Alosines,Alosines,CAB,III,0.485
+17,Alosines,Alosines,CAB,IV,0.188
+17,Alosines,Alosines,CAB,V,0.036
+17,Alosines,Alosines,CAB,VI,0.00464
+17,Alosines,Alosines,CAB,VII,0.000578
+17,Alosines,Alosines,CAB,VIII,0.000051
+17,Alosines,Alosines,CAB,IX,0.000004
+17,Alosines,Alosines,CAB,X,0
+17,Alosines,Alosines,CAB,XI,0
+18,Menh-S,Small Atlantic menhaden,RAB,I,0
+18,Menh-S,Small Atlantic menhaden,RAB,II,18.46
+18,Menh-S,Small Atlantic menhaden,RAB,III,11.31
+18,Menh-S,Small Atlantic menhaden,RAB,IV,1.918
+18,Menh-S,Small Atlantic menhaden,RAB,V,0.152
+18,Menh-S,Small Atlantic menhaden,RAB,VI,0.0109
+18,Menh-S,Small Atlantic menhaden,RAB,VII,0
+18,Menh-S,Small Atlantic menhaden,RAB,VIII,0
+18,Menh-S,Small Atlantic menhaden,RAB,IX,0
+18,Menh-S,Small Atlantic menhaden,RAB,X,0
+18,Menh-S,Small Atlantic menhaden,RAB,XI,0
+18,Menh-S,Small Atlantic menhaden,CAB,I,0
+18,Menh-S,Small Atlantic menhaden,CAB,II,14.53
+18,Menh-S,Small Atlantic menhaden,CAB,III,8.903
+18,Menh-S,Small Atlantic menhaden,CAB,IV,1.51
+18,Menh-S,Small Atlantic menhaden,CAB,V,0.119
+18,Menh-S,Small Atlantic menhaden,CAB,VI,0.00861
+18,Menh-S,Small Atlantic menhaden,CAB,VII,0
+18,Menh-S,Small Atlantic menhaden,CAB,VIII,0
+18,Menh-S,Small Atlantic menhaden,CAB,IX,0
+18,Menh-S,Small Atlantic menhaden,CAB,X,0
+18,Menh-S,Small Atlantic menhaden,CAB,XI,0
+19,Menh-M,Medium Atlantic menhaden,RAB,I,0
+19,Menh-M,Medium Atlantic menhaden,RAB,II,10.93
+19,Menh-M,Medium Atlantic menhaden,RAB,III,10.83
+19,Menh-M,Medium Atlantic menhaden,RAB,IV,1.837
+19,Menh-M,Medium Atlantic menhaden,RAB,V,0.145
+19,Menh-M,Medium Atlantic menhaden,RAB,VI,0.0105
+19,Menh-M,Medium Atlantic menhaden,RAB,VII,0
+19,Menh-M,Medium Atlantic menhaden,RAB,VIII,0
+19,Menh-M,Medium Atlantic menhaden,RAB,IX,0
+19,Menh-M,Medium Atlantic menhaden,RAB,X,0
+19,Menh-M,Medium Atlantic menhaden,RAB,XI,0
+19,Menh-M,Medium Atlantic menhaden,CAB,I,0
+19,Menh-M,Medium Atlantic menhaden,CAB,II,9.279
+19,Menh-M,Medium Atlantic menhaden,CAB,III,9.2
+19,Menh-M,Medium Atlantic menhaden,CAB,IV,1.56
+19,Menh-M,Medium Atlantic menhaden,CAB,V,0.123
+19,Menh-M,Medium Atlantic menhaden,CAB,VI,0.00889
+19,Menh-M,Medium Atlantic menhaden,CAB,VII,0
+19,Menh-M,Medium Atlantic menhaden,CAB,VIII,0
+19,Menh-M,Medium Atlantic menhaden,CAB,IX,0
+19,Menh-M,Medium Atlantic menhaden,CAB,X,0
+19,Menh-M,Medium Atlantic menhaden,CAB,XI,0
+20,Menh-L,Large Atlantic menhaden,RAB,I,0
+20,Menh-L,Large Atlantic menhaden,RAB,II,1.243
+20,Menh-L,Large Atlantic menhaden,RAB,III,2.038
+20,Menh-L,Large Atlantic menhaden,RAB,IV,0.346
+20,Menh-L,Large Atlantic menhaden,RAB,V,0.0273
+20,Menh-L,Large Atlantic menhaden,RAB,VI,0.00197
+20,Menh-L,Large Atlantic menhaden,RAB,VII,0
+20,Menh-L,Large Atlantic menhaden,RAB,VIII,0
+20,Menh-L,Large Atlantic menhaden,RAB,IX,0
+20,Menh-L,Large Atlantic menhaden,RAB,X,0
+20,Menh-L,Large Atlantic menhaden,RAB,XI,0
+20,Menh-L,Large Atlantic menhaden,CAB,I,0
+20,Menh-L,Large Atlantic menhaden,CAB,II,0.726
+20,Menh-L,Large Atlantic menhaden,CAB,III,1.191
+20,Menh-L,Large Atlantic menhaden,CAB,IV,0.202
+20,Menh-L,Large Atlantic menhaden,CAB,V,0.016
+20,Menh-L,Large Atlantic menhaden,CAB,VI,0.00115
+20,Menh-L,Large Atlantic menhaden,CAB,VII,0
+20,Menh-L,Large Atlantic menhaden,CAB,VIII,0
+20,Menh-L,Large Atlantic menhaden,CAB,IX,0
+20,Menh-L,Large Atlantic menhaden,CAB,X,0
+20,Menh-L,Large Atlantic menhaden,CAB,XI,0
+21,Anch,Anchovies,RAB,I,0
+21,Anch,Anchovies,RAB,II,12.14
+21,Anch,Anchovies,RAB,III,14.1
+21,Anch,Anchovies,RAB,IV,7.964
+21,Anch,Anchovies,RAB,V,1.215
+21,Anch,Anchovies,RAB,VI,0.151
+21,Anch,Anchovies,RAB,VII,0.0174
+21,Anch,Anchovies,RAB,VIII,2.97E-04
+21,Anch,Anchovies,RAB,IX,0
+21,Anch,Anchovies,RAB,X,0
+21,Anch,Anchovies,RAB,XI,0
+21,Anch,Anchovies,CAB,I,0
+21,Anch,Anchovies,CAB,II,0.397
+21,Anch,Anchovies,CAB,III,9.68
+21,Anch,Anchovies,CAB,IV,13.18
+21,Anch,Anchovies,CAB,V,1.759
+21,Anch,Anchovies,CAB,VI,0.253
+21,Anch,Anchovies,CAB,VII,0.0233
+21,Anch,Anchovies,CAB,VIII,0
+21,Anch,Anchovies,CAB,IX,0
+21,Anch,Anchovies,CAB,X,0
+21,Anch,Anchovies,CAB,XI,0
+22,Mack,Mackerel,RAB,I,0
+22,Mack,Mackerel,RAB,II,0
+22,Mack,Mackerel,RAB,III,1.183
+22,Mack,Mackerel,RAB,IV,0.813
+22,Mack,Mackerel,RAB,V,0.281
+22,Mack,Mackerel,RAB,VI,0.0459
+22,Mack,Mackerel,RAB,VII,0.00597
+22,Mack,Mackerel,RAB,VIII,6.52E-04
+22,Mack,Mackerel,RAB,IX,2.70E-05
+22,Mack,Mackerel,RAB,X,0
+22,Mack,Mackerel,RAB,XI,0
+22,Mack,Mackerel,CAB,I,0
+22,Mack,Mackerel,CAB,II,0
+22,Mack,Mackerel,CAB,III,0.686
+22,Mack,Mackerel,CAB,IV,0.511
+22,Mack,Mackerel,CAB,V,0.282
+22,Mack,Mackerel,CAB,VI,0.0451
+22,Mack,Mackerel,CAB,VII,0.00637
+22,Mack,Mackerel,CAB,VIII,0.000643
+22,Mack,Mackerel,CAB,IX,0.000024
+22,Mack,Mackerel,CAB,X,0
+22,Mack,Mackerel,CAB,XI,0
+23,Squid,Squid,RAB,I,0
+23,Squid,Squid,RAB,II,0
+23,Squid,Squid,RAB,III,2.934
+23,Squid,Squid,RAB,IV,2.118
+23,Squid,Squid,RAB,V,0.507
+23,Squid,Squid,RAB,VI,0.0847
+23,Squid,Squid,RAB,VII,0.0127
+23,Squid,Squid,RAB,VIII,0.00149
+23,Squid,Squid,RAB,IX,1.43E-04
+23,Squid,Squid,RAB,X,0
+23,Squid,Squid,RAB,XI,0
+23,Squid,Squid,CAB,I,0
+23,Squid,Squid,CAB,II,0
+23,Squid,Squid,CAB,III,1.349
+23,Squid,Squid,CAB,IV,1.166
+23,Squid,Squid,CAB,V,0.293
+23,Squid,Squid,CAB,VI,0.0536
+23,Squid,Squid,CAB,VII,0.0083
+23,Squid,Squid,CAB,VIII,0.00104
+23,Squid,Squid,CAB,IX,0.000106
+23,Squid,Squid,CAB,X,0.000004
+23,Squid,Squid,CAB,XI,0
+24,Butter,Butterfish,RAB,I,0
+24,Butter,Butterfish,RAB,II,0.19
+24,Butter,Butterfish,RAB,III,0.637
+24,Butter,Butterfish,RAB,IV,0.813
+24,Butter,Butterfish,RAB,V,0.116
+24,Butter,Butterfish,RAB,VI,0.0183
+24,Butter,Butterfish,RAB,VII,0.00174
+24,Butter,Butterfish,RAB,VIII,1.28E-04
+24,Butter,Butterfish,RAB,IX,9.00E-06
+24,Butter,Butterfish,RAB,X,0
+24,Butter,Butterfish,RAB,XI,0
+24,Butter,Butterfish,CAB,I,0
+24,Butter,Butterfish,CAB,II,0.19
+24,Butter,Butterfish,CAB,III,0.599
+24,Butter,Butterfish,CAB,IV,0.838
+24,Butter,Butterfish,CAB,V,0.126
+24,Butter,Butterfish,CAB,VI,0.0207
+24,Butter,Butterfish,CAB,VII,0.00208
+24,Butter,Butterfish,CAB,VIII,0.000176
+24,Butter,Butterfish,CAB,IX,0.000015
+24,Butter,Butterfish,CAB,X,0
+24,Butter,Butterfish,CAB,XI,0
+25,SmPel,Small pelagics,RAB,I,0
+25,SmPel,Small pelagics,RAB,II,0.00833
+25,SmPel,Small pelagics,RAB,III,2.054
+25,SmPel,Small pelagics,RAB,IV,0.578
+25,SmPel,Small pelagics,RAB,V,0.112
+25,SmPel,Small pelagics,RAB,VI,0.013
+25,SmPel,Small pelagics,RAB,VII,0.00147
+25,SmPel,Small pelagics,RAB,VIII,1.14E-04
+25,SmPel,Small pelagics,RAB,IX,3.00E-06
+25,SmPel,Small pelagics,RAB,X,0
+25,SmPel,Small pelagics,RAB,XI,0
+25,SmPel,Small pelagics,CAB,I,0
+25,SmPel,Small pelagics,CAB,II,0.00349
+25,SmPel,Small pelagics,CAB,III,0.824
+25,SmPel,Small pelagics,CAB,IV,0.265
+25,SmPel,Small pelagics,CAB,V,0.0591
+25,SmPel,Small pelagics,CAB,VI,0.00744
+25,SmPel,Small pelagics,CAB,VII,0.000874
+25,SmPel,Small pelagics,CAB,VIII,0.000073
+25,SmPel,Small pelagics,CAB,IX,0.000002
+25,SmPel,Small pelagics,CAB,X,0
+25,SmPel,Small pelagics,CAB,XI,0
+26,Blue-S,Small bluefish,RAB,I,0
+26,Blue-S,Small bluefish,RAB,II,0
+26,Blue-S,Small bluefish,RAB,III,0.354
+26,Blue-S,Small bluefish,RAB,IV,0.395
+26,Blue-S,Small bluefish,RAB,V,0.197
+26,Blue-S,Small bluefish,RAB,VI,0.034
+26,Blue-S,Small bluefish,RAB,VII,0.00475
+26,Blue-S,Small bluefish,RAB,VIII,6.00E-04
+26,Blue-S,Small bluefish,RAB,IX,4.30E-05
+26,Blue-S,Small bluefish,RAB,X,2.00E-06
+26,Blue-S,Small bluefish,RAB,XI,0
+26,Blue-S,Small bluefish,CAB,I,0
+26,Blue-S,Small bluefish,CAB,II,0
+26,Blue-S,Small bluefish,CAB,III,0.123
+26,Blue-S,Small bluefish,CAB,IV,0.317
+26,Blue-S,Small bluefish,CAB,V,0.317
+26,Blue-S,Small bluefish,CAB,VI,0.0492
+26,Blue-S,Small bluefish,CAB,VII,0.00746
+26,Blue-S,Small bluefish,CAB,VIII,0.000814
+26,Blue-S,Small bluefish,CAB,IX,0.000043
+26,Blue-S,Small bluefish,CAB,X,0.000003
+26,Blue-S,Small bluefish,CAB,XI,0
+27,Blue-M,Medium bluefish,RAB,I,0
+27,Blue-M,Medium bluefish,RAB,II,0
+27,Blue-M,Medium bluefish,RAB,III,0.0527
+27,Blue-M,Medium bluefish,RAB,IV,0.1
+27,Blue-M,Medium bluefish,RAB,V,0.0531
+27,Blue-M,Medium bluefish,RAB,VI,0.00927
+27,Blue-M,Medium bluefish,RAB,VII,0.00133
+27,Blue-M,Medium bluefish,RAB,VIII,1.62E-04
+27,Blue-M,Medium bluefish,RAB,IX,1.20E-05
+27,Blue-M,Medium bluefish,RAB,X,1.00E-06
+27,Blue-M,Medium bluefish,RAB,XI,0
+27,Blue-M,Medium bluefish,CAB,I,0
+27,Blue-M,Medium bluefish,CAB,II,0
+27,Blue-M,Medium bluefish,CAB,III,0.0245
+27,Blue-M,Medium bluefish,CAB,IV,0.0908
+27,Blue-M,Medium bluefish,CAB,V,0.0774
+27,Blue-M,Medium bluefish,CAB,VI,0.0132
+27,Blue-M,Medium bluefish,CAB,VII,0.00201
+27,Blue-M,Medium bluefish,CAB,VIII,0.00023
+27,Blue-M,Medium bluefish,CAB,IX,0.000016
+27,Blue-M,Medium bluefish,CAB,X,0.000001
+27,Blue-M,Medium bluefish,CAB,XI,0
+28,Blue-L,Large bluefish,RAB,I,0
+28,Blue-L,Large bluefish,RAB,II,0
+28,Blue-L,Large bluefish,RAB,III,0.0229
+28,Blue-L,Large bluefish,RAB,IV,0.192
+28,Blue-L,Large bluefish,RAB,V,0.13
+28,Blue-L,Large bluefish,RAB,VI,0.0265
+28,Blue-L,Large bluefish,RAB,VII,0.00423
+28,Blue-L,Large bluefish,RAB,VIII,5.55E-04
+28,Blue-L,Large bluefish,RAB,IX,5.30E-05
+28,Blue-L,Large bluefish,RAB,X,4.00E-06
+28,Blue-L,Large bluefish,RAB,XI,0
+28,Blue-L,Large bluefish,CAB,I,0
+28,Blue-L,Large bluefish,CAB,II,0
+28,Blue-L,Large bluefish,CAB,III,0.0109
+28,Blue-L,Large bluefish,CAB,IV,0.172
+28,Blue-L,Large bluefish,CAB,V,0.15
+28,Blue-L,Large bluefish,CAB,VI,0.0332
+28,Blue-L,Large bluefish,CAB,VII,0.00563
+28,Blue-L,Large bluefish,CAB,VIII,0.000744
+28,Blue-L,Large bluefish,CAB,IX,0.000075
+28,Blue-L,Large bluefish,CAB,X,0.000006
+28,Blue-L,Large bluefish,CAB,XI,0
+29,Sbass-S,Small striped bass,RAB,I,0
+29,Sbass-S,Small striped bass,RAB,II,0
+29,Sbass-S,Small striped bass,RAB,III,0.848
+29,Sbass-S,Small striped bass,RAB,IV,0.653
+29,Sbass-S,Small striped bass,RAB,V,0.23
+29,Sbass-S,Small striped bass,RAB,VI,0.0362
+29,Sbass-S,Small striped bass,RAB,VII,0.00489
+29,Sbass-S,Small striped bass,RAB,VIII,5.82E-04
+29,Sbass-S,Small striped bass,RAB,IX,3.40E-05
+29,Sbass-S,Small striped bass,RAB,X,0
+29,Sbass-S,Small striped bass,RAB,XI,0
+29,Sbass-S,Small striped bass,CAB,I,0
+29,Sbass-S,Small striped bass,CAB,II,0
+29,Sbass-S,Small striped bass,CAB,III,0.541
+29,Sbass-S,Small striped bass,CAB,IV,0.58
+29,Sbass-S,Small striped bass,CAB,V,0.358
+29,Sbass-S,Small striped bass,CAB,VI,0.0527
+29,Sbass-S,Small striped bass,CAB,VII,0.00774
+29,Sbass-S,Small striped bass,CAB,VIII,0.000814
+29,Sbass-S,Small striped bass,CAB,IX,0.000036
+29,Sbass-S,Small striped bass,CAB,X,0
+29,Sbass-S,Small striped bass,CAB,XI,0
+30,Sbass-M,Medium striped bass,RAB,I,0
+30,Sbass-M,Medium striped bass,RAB,II,0
+30,Sbass-M,Medium striped bass,RAB,III,0.975
+30,Sbass-M,Medium striped bass,RAB,IV,0.919
+30,Sbass-M,Medium striped bass,RAB,V,0.374
+30,Sbass-M,Medium striped bass,RAB,VI,0.0684
+30,Sbass-M,Medium striped bass,RAB,VII,0.0103
+30,Sbass-M,Medium striped bass,RAB,VIII,0.00136
+30,Sbass-M,Medium striped bass,RAB,IX,1.30E-04
+30,Sbass-M,Medium striped bass,RAB,X,9.00E-06
+30,Sbass-M,Medium striped bass,RAB,XI,0
+30,Sbass-M,Medium striped bass,CAB,I,0
+30,Sbass-M,Medium striped bass,CAB,II,0
+30,Sbass-M,Medium striped bass,CAB,III,0.748
+30,Sbass-M,Medium striped bass,CAB,IV,0.897
+30,Sbass-M,Medium striped bass,CAB,V,0.556
+30,Sbass-M,Medium striped bass,CAB,VI,0.099
+30,Sbass-M,Medium striped bass,CAB,VII,0.0158
+30,Sbass-M,Medium striped bass,CAB,VIII,0.00197
+30,Sbass-M,Medium striped bass,CAB,IX,0.000173
+30,Sbass-M,Medium striped bass,CAB,X,0.000015
+30,Sbass-M,Medium striped bass,CAB,XI,0
+31,Sbass-L,Large striped bass,RAB,I,0
+31,Sbass-L,Large striped bass,RAB,II,0
+31,Sbass-L,Large striped bass,RAB,III,0.294
+31,Sbass-L,Large striped bass,RAB,IV,0.42
+31,Sbass-L,Large striped bass,RAB,V,0.183
+31,Sbass-L,Large striped bass,RAB,VI,0.0319
+31,Sbass-L,Large striped bass,RAB,VII,0.0046
+31,Sbass-L,Large striped bass,RAB,VIII,5.78E-04
+31,Sbass-L,Large striped bass,RAB,IX,4.90E-05
+31,Sbass-L,Large striped bass,RAB,X,2.00E-06
+31,Sbass-L,Large striped bass,RAB,XI,0
+31,Sbass-L,Large striped bass,CAB,I,0
+31,Sbass-L,Large striped bass,CAB,II,0
+31,Sbass-L,Large striped bass,CAB,III,0.197
+31,Sbass-L,Large striped bass,CAB,IV,0.398
+31,Sbass-L,Large striped bass,CAB,V,0.27
+31,Sbass-L,Large striped bass,CAB,VI,0.0467
+31,Sbass-L,Large striped bass,CAB,VII,0.00716
+31,Sbass-L,Large striped bass,CAB,VIII,0.000849
+31,Sbass-L,Large striped bass,CAB,IX,0.000065
+31,Sbass-L,Large striped bass,CAB,X,0.000004
+31,Sbass-L,Large striped bass,CAB,XI,0
+32,Weak-S,Small weakfish,RAB,I,0
+32,Weak-S,Small weakfish,RAB,II,0
+32,Weak-S,Small weakfish,RAB,III,1.266
+32,Weak-S,Small weakfish,RAB,IV,1.179
+32,Weak-S,Small weakfish,RAB,V,0.359
+32,Weak-S,Small weakfish,RAB,VI,0.0529
+32,Weak-S,Small weakfish,RAB,VII,0.00652
+32,Weak-S,Small weakfish,RAB,VIII,6.07E-04
+32,Weak-S,Small weakfish,RAB,IX,1.40E-05
+32,Weak-S,Small weakfish,RAB,X,0
+32,Weak-S,Small weakfish,RAB,XI,0
+32,Weak-S,Small weakfish,CAB,I,0
+32,Weak-S,Small weakfish,CAB,II,0
+32,Weak-S,Small weakfish,CAB,III,0.561
+32,Weak-S,Small weakfish,CAB,IV,0.949
+32,Weak-S,Small weakfish,CAB,V,0.507
+32,Weak-S,Small weakfish,CAB,VI,0.0694
+32,Weak-S,Small weakfish,CAB,VII,0.00946
+32,Weak-S,Small weakfish,CAB,VIII,0.000806
+32,Weak-S,Small weakfish,CAB,IX,0.000004
+32,Weak-S,Small weakfish,CAB,X,0
+32,Weak-S,Small weakfish,CAB,XI,0
+33,Weak-M,Medium weakfish,RAB,I,0
+33,Weak-M,Medium weakfish,RAB,II,0
+33,Weak-M,Medium weakfish,RAB,III,0.494
+33,Weak-M,Medium weakfish,RAB,IV,0.533
+33,Weak-M,Medium weakfish,RAB,V,0.212
+33,Weak-M,Medium weakfish,RAB,VI,0.0335
+33,Weak-M,Medium weakfish,RAB,VII,0.00433
+33,Weak-M,Medium weakfish,RAB,VIII,4.79E-04
+33,Weak-M,Medium weakfish,RAB,IX,2.20E-05
+33,Weak-M,Medium weakfish,RAB,X,0
+33,Weak-M,Medium weakfish,RAB,XI,0
+33,Weak-M,Medium weakfish,CAB,I,0
+33,Weak-M,Medium weakfish,CAB,II,0
+33,Weak-M,Medium weakfish,CAB,III,0.239
+33,Weak-M,Medium weakfish,CAB,IV,0.552
+33,Weak-M,Medium weakfish,CAB,V,0.417
+33,Weak-M,Medium weakfish,CAB,VI,0.0603
+33,Weak-M,Medium weakfish,CAB,VII,0.00859
+33,Weak-M,Medium weakfish,CAB,VIII,0.000832
+33,Weak-M,Medium weakfish,CAB,IX,0.000023
+33,Weak-M,Medium weakfish,CAB,X,0
+33,Weak-M,Medium weakfish,CAB,XI,0
+34,Weak-L,Large weakfish,RAB,I,0
+34,Weak-L,Large weakfish,RAB,II,0
+34,Weak-L,Large weakfish,RAB,III,0.0283
+34,Weak-L,Large weakfish,RAB,IV,0.0392
+34,Weak-L,Large weakfish,RAB,V,0.0169
+34,Weak-L,Large weakfish,RAB,VI,0.00318
+34,Weak-L,Large weakfish,RAB,VII,4.50E-04
+34,Weak-L,Large weakfish,RAB,VIII,5.60E-05
+34,Weak-L,Large weakfish,RAB,IX,4.00E-06
+34,Weak-L,Large weakfish,RAB,X,0
+34,Weak-L,Large weakfish,RAB,XI,0
+34,Weak-L,Large weakfish,CAB,I,0
+34,Weak-L,Large weakfish,CAB,II,0
+34,Weak-L,Large weakfish,CAB,III,0.0144
+34,Weak-L,Large weakfish,CAB,IV,0.0371
+34,Weak-L,Large weakfish,CAB,V,0.0302
+34,Weak-L,Large weakfish,CAB,VI,0.00554
+34,Weak-L,Large weakfish,CAB,VII,0.000825
+34,Weak-L,Large weakfish,CAB,VIII,0.000094
+34,Weak-L,Large weakfish,CAB,IX,0.000005
+34,Weak-L,Large weakfish,CAB,X,0
+34,Weak-L,Large weakfish,CAB,XI,0
+35,Dogfish-S,Small dogfish,RAB,I,0
+35,Dogfish-S,Small dogfish,RAB,II,0
+35,Dogfish-S,Small dogfish,RAB,III,0.269
+35,Dogfish-S,Small dogfish,RAB,IV,0.525
+35,Dogfish-S,Small dogfish,RAB,V,0.161
+35,Dogfish-S,Small dogfish,RAB,VI,0.0325
+35,Dogfish-S,Small dogfish,RAB,VII,0.0047
+35,Dogfish-S,Small dogfish,RAB,VIII,5.85E-04
+35,Dogfish-S,Small dogfish,RAB,IX,5.90E-05
+35,Dogfish-S,Small dogfish,RAB,X,4.00E-06
+35,Dogfish-S,Small dogfish,RAB,XI,0
+35,Dogfish-S,Small dogfish,CAB,I,0
+35,Dogfish-S,Small dogfish,CAB,II,0
+35,Dogfish-S,Small dogfish,CAB,III,0.181
+35,Dogfish-S,Small dogfish,CAB,IV,0.36
+35,Dogfish-S,Small dogfish,CAB,V,0.121
+35,Dogfish-S,Small dogfish,CAB,VI,0.0274
+35,Dogfish-S,Small dogfish,CAB,VII,0.00424
+35,Dogfish-S,Small dogfish,CAB,VIII,0.000549
+35,Dogfish-S,Small dogfish,CAB,IX,0.000058
+35,Dogfish-S,Small dogfish,CAB,X,0.000005
+35,Dogfish-S,Small dogfish,CAB,XI,0
+36,Dogfish-L,Large dogfish,RAB,I,0
+36,Dogfish-L,Large dogfish,RAB,II,0
+36,Dogfish-L,Large dogfish,RAB,III,0.455
+36,Dogfish-L,Large dogfish,RAB,IV,0.794
+36,Dogfish-L,Large dogfish,RAB,V,0.315
+36,Dogfish-L,Large dogfish,RAB,VI,0.0617
+36,Dogfish-L,Large dogfish,RAB,VII,0.00931
+36,Dogfish-L,Large dogfish,RAB,VIII,0.00116
+36,Dogfish-L,Large dogfish,RAB,IX,1.08E-04
+36,Dogfish-L,Large dogfish,RAB,X,7.00E-06
+36,Dogfish-L,Large dogfish,RAB,XI,0
+36,Dogfish-L,Large dogfish,CAB,I,0
+36,Dogfish-L,Large dogfish,CAB,II,0
+36,Dogfish-L,Large dogfish,CAB,III,0.439
+36,Dogfish-L,Large dogfish,CAB,IV,0.756
+36,Dogfish-L,Large dogfish,CAB,V,0.35
+36,Dogfish-L,Large dogfish,CAB,VI,0.0761
+36,Dogfish-L,Large dogfish,CAB,VII,0.0122
+36,Dogfish-L,Large dogfish,CAB,VIII,0.00156
+36,Dogfish-L,Large dogfish,CAB,IX,0.000154
+36,Dogfish-L,Large dogfish,CAB,X,0.000012
+36,Dogfish-L,Large dogfish,CAB,XI,0
+37,Cod-S,Small cod,RAB,I,0
+37,Cod-S,Small cod,RAB,II,0
+37,Cod-S,Small cod,RAB,III,0.318
+37,Cod-S,Small cod,RAB,IV,0.219
+37,Cod-S,Small cod,RAB,V,0.0408
+37,Cod-S,Small cod,RAB,VI,0.00614
+37,Cod-S,Small cod,RAB,VII,8.40E-04
+37,Cod-S,Small cod,RAB,VIII,9.20E-05
+37,Cod-S,Small cod,RAB,IX,6.00E-06
+37,Cod-S,Small cod,RAB,X,0
+37,Cod-S,Small cod,RAB,XI,0
+37,Cod-S,Small cod,CAB,I,0
+37,Cod-S,Small cod,CAB,II,0
+37,Cod-S,Small cod,CAB,III,0.0932
+37,Cod-S,Small cod,CAB,IV,0.0726
+37,Cod-S,Small cod,CAB,V,0.015
+37,Cod-S,Small cod,CAB,VI,0.00243
+37,Cod-S,Small cod,CAB,VII,0.00034
+37,Cod-S,Small cod,CAB,VIII,0.000038
+37,Cod-S,Small cod,CAB,IX,0.000003
+37,Cod-S,Small cod,CAB,X,0
+37,Cod-S,Small cod,CAB,XI,0
+38,Cod-M,Medium cod,RAB,I,0
+38,Cod-M,Medium cod,RAB,II,0
+38,Cod-M,Medium cod,RAB,III,0.189
+38,Cod-M,Medium cod,RAB,IV,0.231
+38,Cod-M,Medium cod,RAB,V,0.0775
+38,Cod-M,Medium cod,RAB,VI,0.0136
+38,Cod-M,Medium cod,RAB,VII,0.00202
+38,Cod-M,Medium cod,RAB,VIII,2.50E-04
+38,Cod-M,Medium cod,RAB,IX,2.10E-05
+38,Cod-M,Medium cod,RAB,X,1.00E-06
+38,Cod-M,Medium cod,RAB,XI,0
+38,Cod-M,Medium cod,CAB,I,0
+38,Cod-M,Medium cod,CAB,II,0
+38,Cod-M,Medium cod,CAB,III,0.103
+38,Cod-M,Medium cod,CAB,IV,0.128
+38,Cod-M,Medium cod,CAB,V,0.0499
+38,Cod-M,Medium cod,CAB,VI,0.0095
+38,Cod-M,Medium cod,CAB,VII,0.0015
+38,Cod-M,Medium cod,CAB,VIII,0.000188
+38,Cod-M,Medium cod,CAB,IX,0.000017
+38,Cod-M,Medium cod,CAB,X,0.000001
+38,Cod-M,Medium cod,CAB,XI,0
+39,Cod-L,Large cod,RAB,I,0
+39,Cod-L,Large cod,RAB,II,0
+39,Cod-L,Large cod,RAB,III,0.0831
+39,Cod-L,Large cod,RAB,IV,0.207
+39,Cod-L,Large cod,RAB,V,0.0869
+39,Cod-L,Large cod,RAB,VI,0.0165
+39,Cod-L,Large cod,RAB,VII,0.00251
+39,Cod-L,Large cod,RAB,VIII,0.000317
+39,Cod-L,Large cod,RAB,IX,0.00003
+39,Cod-L,Large cod,RAB,X,0.000002
+39,Cod-L,Large cod,RAB,XI,0
+39,Cod-L,Large cod,CAB,I,0
+39,Cod-L,Large cod,CAB,II,0
+39,Cod-L,Large cod,CAB,III,0.0385
+39,Cod-L,Large cod,CAB,IV,0.0942
+39,Cod-L,Large cod,CAB,V,0.0461
+39,Cod-L,Large cod,CAB,VI,0.00997
+39,Cod-L,Large cod,CAB,VII,0.0016
+39,Cod-L,Large cod,CAB,VIII,0.000208
+39,Cod-L,Large cod,CAB,IX,0.00002
+39,Cod-L,Large cod,CAB,X,0.000002
+39,Cod-L,Large cod,CAB,XI,0
+40,Haddock,Haddock,RAB,I,0
+40,Haddock,Haddock,RAB,II,0
+40,Haddock,Haddock,RAB,III,0.93
+40,Haddock,Haddock,RAB,IV,0.685
+40,Haddock,Haddock,RAB,V,0.163
+40,Haddock,Haddock,RAB,VI,0.0271
+40,Haddock,Haddock,RAB,VII,0.00381
+40,Haddock,Haddock,RAB,VIII,4.26E-04
+40,Haddock,Haddock,RAB,IX,3.10E-05
+40,Haddock,Haddock,RAB,X,0
+40,Haddock,Haddock,RAB,XI,0
+40,Haddock,Haddock,CAB,I,0
+40,Haddock,Haddock,CAB,II,0
+40,Haddock,Haddock,CAB,III,0.882
+40,Haddock,Haddock,CAB,IV,0.702
+40,Haddock,Haddock,CAB,V,0.185
+40,Haddock,Haddock,CAB,VI,0.0344
+40,Haddock,Haddock,CAB,VII,0.00497
+40,Haddock,Haddock,CAB,VIII,0.000574
+40,Haddock,Haddock,CAB,IX,0.000046
+40,Haddock,Haddock,CAB,X,0
+40,Haddock,Haddock,CAB,XI,0
+41,Hake,Hake,RAB,I,0
+41,Hake,Hake,RAB,II,0
+41,Hake,Hake,RAB,III,2.138
+41,Hake,Hake,RAB,IV,2.183
+41,Hake,Hake,RAB,V,0.412
+41,Hake,Hake,RAB,VI,0.0683
+41,Hake,Hake,RAB,VII,0.00917
+41,Hake,Hake,RAB,VIII,6.97E-04
+41,Hake,Hake,RAB,IX,6.50E-05
+41,Hake,Hake,RAB,X,0
+41,Hake,Hake,RAB,XI,0
+41,Hake,Hake,CAB,I,0
+41,Hake,Hake,CAB,II,0
+41,Hake,Hake,CAB,III,1.144
+41,Hake,Hake,CAB,IV,1.679
+41,Hake,Hake,CAB,V,0.297
+41,Hake,Hake,CAB,VI,0.0566
+41,Hake,Hake,CAB,VII,0.00727
+41,Hake,Hake,CAB,VIII,0.000646
+41,Hake,Hake,CAB,IX,0.000065
+41,Hake,Hake,CAB,X,0
+41,Hake,Hake,CAB,XI,0
+42,Croaker,Croaker,RAB,I,0
+42,Croaker,Croaker,RAB,II,0
+42,Croaker,Croaker,RAB,III,0.443
+42,Croaker,Croaker,RAB,IV,0.227
+42,Croaker,Croaker,RAB,V,0.0557
+42,Croaker,Croaker,RAB,VI,0.0107
+42,Croaker,Croaker,RAB,VII,0.00171
+42,Croaker,Croaker,RAB,VIII,2.29E-04
+42,Croaker,Croaker,RAB,IX,2.30E-05
+42,Croaker,Croaker,RAB,X,1.00E-06
+42,Croaker,Croaker,RAB,XI,0
+42,Croaker,Croaker,CAB,I,0
+42,Croaker,Croaker,CAB,II,0
+42,Croaker,Croaker,CAB,III,0.42
+42,Croaker,Croaker,CAB,IV,0.232
+42,Croaker,Croaker,CAB,V,0.07
+42,Croaker,Croaker,CAB,VI,0.0135
+42,Croaker,Croaker,CAB,VII,0.00229
+42,Croaker,Croaker,CAB,VIII,0.000307
+42,Croaker,Croaker,CAB,IX,0.000032
+42,Croaker,Croaker,CAB,X,0.000001
+42,Croaker,Croaker,CAB,XI,0
+43,Yflound-S,Small yellowtail flounder,RAB,I,0
+43,Yflound-S,Small yellowtail flounder,RAB,II,0
+43,Yflound-S,Small yellowtail flounder,RAB,III,0.11
+43,Yflound-S,Small yellowtail flounder,RAB,IV,0.0681
+43,Yflound-S,Small yellowtail flounder,RAB,V,0.0129
+43,Yflound-S,Small yellowtail flounder,RAB,VI,0.00194
+43,Yflound-S,Small yellowtail flounder,RAB,VII,2.66E-04
+43,Yflound-S,Small yellowtail flounder,RAB,VIII,3.00E-05
+43,Yflound-S,Small yellowtail flounder,RAB,IX,2.00E-06
+43,Yflound-S,Small yellowtail flounder,RAB,X,0
+43,Yflound-S,Small yellowtail flounder,RAB,XI,0
+43,Yflound-S,Small yellowtail flounder,CAB,I,0
+43,Yflound-S,Small yellowtail flounder,CAB,II,0
+43,Yflound-S,Small yellowtail flounder,CAB,III,0.103
+43,Yflound-S,Small yellowtail flounder,CAB,IV,0.0721
+43,Yflound-S,Small yellowtail flounder,CAB,V,0.0153
+43,Yflound-S,Small yellowtail flounder,CAB,VI,0.00248
+43,Yflound-S,Small yellowtail flounder,CAB,VII,0.00035
+43,Yflound-S,Small yellowtail flounder,CAB,VIII,0.000041
+43,Yflound-S,Small yellowtail flounder,CAB,IX,0.000003
+43,Yflound-S,Small yellowtail flounder,CAB,X,0
+43,Yflound-S,Small yellowtail flounder,CAB,XI,0
+44,Yflound-L,Large yellowtail flounder,RAB,I,0
+44,Yflound-L,Large yellowtail flounder,RAB,II,0
+44,Yflound-L,Large yellowtail flounder,RAB,III,0.206
+44,Yflound-L,Large yellowtail flounder,RAB,IV,0.0956
+44,Yflound-L,Large yellowtail flounder,RAB,V,0.018
+44,Yflound-L,Large yellowtail flounder,RAB,VI,0.00274
+44,Yflound-L,Large yellowtail flounder,RAB,VII,3.71E-04
+44,Yflound-L,Large yellowtail flounder,RAB,VIII,4.30E-05
+44,Yflound-L,Large yellowtail flounder,RAB,IX,2.00E-06
+44,Yflound-L,Large yellowtail flounder,RAB,X,0
+44,Yflound-L,Large yellowtail flounder,RAB,XI,0
+44,Yflound-L,Large yellowtail flounder,CAB,I,0
+44,Yflound-L,Large yellowtail flounder,CAB,II,0
+44,Yflound-L,Large yellowtail flounder,CAB,III,0.2
+44,Yflound-L,Large yellowtail flounder,CAB,IV,0.0975
+44,Yflound-L,Large yellowtail flounder,CAB,V,0.0213
+44,Yflound-L,Large yellowtail flounder,CAB,VI,0.0034
+44,Yflound-L,Large yellowtail flounder,CAB,VII,0.000483
+44,Yflound-L,Large yellowtail flounder,CAB,VIII,0.000055
+44,Yflound-L,Large yellowtail flounder,CAB,IX,0.000004
+44,Yflound-L,Large yellowtail flounder,CAB,X,0
+44,Yflound-L,Large yellowtail flounder,CAB,XI,0
+45,Sflound-S,Small summer  flounder,RAB,I,0
+45,Sflound-S,Small summer  flounder,RAB,II,0
+45,Sflound-S,Small summer  flounder,RAB,III,0.106
+45,Sflound-S,Small summer  flounder,RAB,IV,0.172
+45,Sflound-S,Small summer  flounder,RAB,V,0.0822
+45,Sflound-S,Small summer  flounder,RAB,VI,0.0162
+45,Sflound-S,Small summer  flounder,RAB,VII,0.00256
+45,Sflound-S,Small summer  flounder,RAB,VIII,3.45E-04
+45,Sflound-S,Small summer  flounder,RAB,IX,3.40E-05
+45,Sflound-S,Small summer  flounder,RAB,X,3.00E-06
+45,Sflound-S,Small summer  flounder,RAB,XI,0
+45,Sflound-S,Small summer  flounder,CAB,I,0
+45,Sflound-S,Small summer  flounder,CAB,II,0
+45,Sflound-S,Small summer  flounder,CAB,III,0.0267
+45,Sflound-S,Small summer  flounder,CAB,IV,0.0605
+45,Sflound-S,Small summer  flounder,CAB,V,0.0363
+45,Sflound-S,Small summer  flounder,CAB,VI,0.00714
+45,Sflound-S,Small summer  flounder,CAB,VII,0.0012
+45,Sflound-S,Small summer  flounder,CAB,VIII,0.00016
+45,Sflound-S,Small summer  flounder,CAB,IX,0.000016
+45,Sflound-S,Small summer  flounder,CAB,X,0.000001
+45,Sflound-S,Small summer  flounder,CAB,XI,0
+46,Sflound-L,Large summer  flounder,RAB,I,0
+46,Sflound-L,Large summer  flounder,RAB,II,0
+46,Sflound-L,Large summer  flounder,RAB,III,0.142
+46,Sflound-L,Large summer  flounder,RAB,IV,0.569
+46,Sflound-L,Large summer  flounder,RAB,V,0.349
+46,Sflound-L,Large summer  flounder,RAB,VI,0.0728
+46,Sflound-L,Large summer  flounder,RAB,VII,0.0116
+46,Sflound-L,Large summer  flounder,RAB,VIII,0.00157
+46,Sflound-L,Large summer  flounder,RAB,IX,1.63E-04
+46,Sflound-L,Large summer  flounder,RAB,X,1.30E-05
+46,Sflound-L,Large summer  flounder,RAB,XI,0
+46,Sflound-L,Large summer  flounder,CAB,I,0
+46,Sflound-L,Large summer  flounder,CAB,II,0
+46,Sflound-L,Large summer  flounder,CAB,III,0.0365
+46,Sflound-L,Large summer  flounder,CAB,IV,0.237
+46,Sflound-L,Large summer  flounder,CAB,V,0.185
+46,Sflound-L,Large summer  flounder,CAB,VI,0.0423
+46,Sflound-L,Large summer  flounder,CAB,VII,0.00707
+46,Sflound-L,Large summer  flounder,CAB,VIII,0.000963
+46,Sflound-L,Large summer  flounder,CAB,IX,0.000102
+46,Sflound-L,Large summer  flounder,CAB,X,0.000009
+46,Sflound-L,Large summer  flounder,CAB,XI,0
+47,Skate,Skate,RAB,I,0
+47,Skate,Skate,RAB,II,0
+47,Skate,Skate,RAB,III,1.797
+47,Skate,Skate,RAB,IV,1.586
+47,Skate,Skate,RAB,V,0.485
+47,Skate,Skate,RAB,VI,0.089
+47,Skate,Skate,RAB,VII,0.0137
+47,Skate,Skate,RAB,VIII,0.0018
+47,Skate,Skate,RAB,IX,1.85E-04
+47,Skate,Skate,RAB,X,6.00E-06
+47,Skate,Skate,RAB,XI,0
+47,Skate,Skate,CAB,I,0
+47,Skate,Skate,CAB,II,0
+47,Skate,Skate,CAB,III,1.678
+47,Skate,Skate,CAB,IV,1.587
+47,Skate,Skate,CAB,V,0.569
+47,Skate,Skate,CAB,VI,0.116
+47,Skate,Skate,CAB,VII,0.0187
+47,Skate,Skate,CAB,VIII,0.00254
+47,Skate,Skate,CAB,IX,0.000267
+47,Skate,Skate,CAB,X,0.000017
+47,Skate,Skate,CAB,XI,0
+48,Dbenth-oth,Demersal benthivores - other,RAB,I,0
+48,Dbenth-oth,Demersal benthivores - other,RAB,II,0
+48,Dbenth-oth,Demersal benthivores - other,RAB,III,1.374
+48,Dbenth-oth,Demersal benthivores - other,RAB,IV,0.793
+48,Dbenth-oth,Demersal benthivores - other,RAB,V,0.17
+48,Dbenth-oth,Demersal benthivores - other,RAB,VI,0.027
+48,Dbenth-oth,Demersal benthivores - other,RAB,VII,0.00382
+48,Dbenth-oth,Demersal benthivores - other,RAB,VIII,4.71E-04
+48,Dbenth-oth,Demersal benthivores - other,RAB,IX,3.50E-05
+48,Dbenth-oth,Demersal benthivores - other,RAB,X,0
+48,Dbenth-oth,Demersal benthivores - other,RAB,XI,0
+48,Dbenth-oth,Demersal benthivores - other,CAB,I,0
+48,Dbenth-oth,Demersal benthivores - other,CAB,II,0
+48,Dbenth-oth,Demersal benthivores - other,CAB,III,1.005
+48,Dbenth-oth,Demersal benthivores - other,CAB,IV,0.64
+48,Dbenth-oth,Demersal benthivores - other,CAB,V,0.18
+48,Dbenth-oth,Demersal benthivores - other,CAB,VI,0.0289
+48,Dbenth-oth,Demersal benthivores - other,CAB,VII,0.00431
+48,Dbenth-oth,Demersal benthivores - other,CAB,VIII,0.000518
+48,Dbenth-oth,Demersal benthivores - other,CAB,IX,0.000041
+48,Dbenth-oth,Demersal benthivores - other,CAB,X,0
+48,Dbenth-oth,Demersal benthivores - other,CAB,XI,0
+49,Dpisc-oth,Demersal piscivores - other,RAB,I,0
+49,Dpisc-oth,Demersal piscivores - other,RAB,II,0
+49,Dpisc-oth,Demersal piscivores - other,RAB,III,0.29
+49,Dpisc-oth,Demersal piscivores - other,RAB,IV,0.507
+49,Dpisc-oth,Demersal piscivores - other,RAB,V,0.193
+49,Dpisc-oth,Demersal piscivores - other,RAB,VI,0.0388
+49,Dpisc-oth,Demersal piscivores - other,RAB,VII,0.00622
+49,Dpisc-oth,Demersal piscivores - other,RAB,VIII,8.45E-04
+49,Dpisc-oth,Demersal piscivores - other,RAB,IX,9.30E-05
+49,Dpisc-oth,Demersal piscivores - other,RAB,X,7.00E-06
+49,Dpisc-oth,Demersal piscivores - other,RAB,XI,0
+49,Dpisc-oth,Demersal piscivores - other,CAB,I,0
+49,Dpisc-oth,Demersal piscivores - other,CAB,II,0
+49,Dpisc-oth,Demersal piscivores - other,CAB,III,0.166
+49,Dpisc-oth,Demersal piscivores - other,CAB,IV,0.321
+49,Dpisc-oth,Demersal piscivores - other,CAB,V,0.138
+49,Dpisc-oth,Demersal piscivores - other,CAB,VI,0.0311
+49,Dpisc-oth,Demersal piscivores - other,CAB,VII,0.00525
+49,Dpisc-oth,Demersal piscivores - other,CAB,VIII,0.000741
+49,Dpisc-oth,Demersal piscivores - other,CAB,IX,0.000084
+49,Dpisc-oth,Demersal piscivores - other,CAB,X,0.000007
+49,Dpisc-oth,Demersal piscivores - other,CAB,XI,0
+50,Domni-oth,Demersal omnivores - other,RAB,I,0
+50,Domni-oth,Demersal omnivores - other,RAB,II,0
+50,Domni-oth,Demersal omnivores - other,RAB,III,0.824
+50,Domni-oth,Demersal omnivores - other,RAB,IV,1.103
+50,Domni-oth,Demersal omnivores - other,RAB,V,0.306
+50,Domni-oth,Demersal omnivores - other,RAB,VI,0.0571
+50,Domni-oth,Demersal omnivores - other,RAB,VII,0.00887
+50,Domni-oth,Demersal omnivores - other,RAB,VIII,0.00123
+50,Domni-oth,Demersal omnivores - other,RAB,IX,1.40E-04
+50,Domni-oth,Demersal omnivores - other,RAB,X,5.00E-06
+50,Domni-oth,Demersal omnivores - other,RAB,XI,0
+50,Domni-oth,Demersal omnivores - other,CAB,I,0
+50,Domni-oth,Demersal omnivores - other,CAB,II,0
+50,Domni-oth,Demersal omnivores - other,CAB,III,0.395
+50,Domni-oth,Demersal omnivores - other,CAB,IV,0.596
+50,Domni-oth,Demersal omnivores - other,CAB,V,0.185
+50,Domni-oth,Demersal omnivores - other,CAB,VI,0.0383
+50,Domni-oth,Demersal omnivores - other,CAB,VII,0.00608
+50,Domni-oth,Demersal omnivores - other,CAB,VIII,0.000874
+50,Domni-oth,Demersal omnivores - other,CAB,IX,0.000098
+50,Domni-oth,Demersal omnivores - other,CAB,X,0.000006
+50,Domni-oth,Demersal omnivores - other,CAB,XI,0
+51,MedPel,Medium pelagic - other,RAB,I,0
+51,MedPel,Medium pelagic - other,RAB,II,0
+51,MedPel,Medium pelagic - other,RAB,III,0.0221
+51,MedPel,Medium pelagic - other,RAB,IV,0.132
+51,MedPel,Medium pelagic - other,RAB,V,0.0876
+51,MedPel,Medium pelagic - other,RAB,VI,0.0176
+51,MedPel,Medium pelagic - other,RAB,VII,0.00286
+51,MedPel,Medium pelagic - other,RAB,VIII,3.81E-04
+51,MedPel,Medium pelagic - other,RAB,IX,3.80E-05
+51,MedPel,Medium pelagic - other,RAB,X,3.00E-06
+51,MedPel,Medium pelagic - other,RAB,XI,0
+51,MedPel,Medium pelagic - other,CAB,I,0
+51,MedPel,Medium pelagic - other,CAB,II,0
+51,MedPel,Medium pelagic - other,CAB,III,0.0156
+51,MedPel,Medium pelagic - other,CAB,IV,0.103
+51,MedPel,Medium pelagic - other,CAB,V,0.0823
+51,MedPel,Medium pelagic - other,CAB,VI,0.0175
+51,MedPel,Medium pelagic - other,CAB,VII,0.0031
+51,MedPel,Medium pelagic - other,CAB,VIII,0.000419
+51,MedPel,Medium pelagic - other,CAB,IX,0.000045
+51,MedPel,Medium pelagic - other,CAB,X,0.000004
+51,MedPel,Medium pelagic - other,CAB,XI,0
+52,Shark-coas,Sharks - coastal,RAB,I,0
+52,Shark-coas,Sharks - coastal,RAB,II,0
+52,Shark-coas,Sharks - coastal,RAB,III,0.00315
+52,Shark-coas,Sharks - coastal,RAB,IV,0.011
+52,Shark-coas,Sharks - coastal,RAB,V,0.00698
+52,Shark-coas,Sharks - coastal,RAB,VI,0.00183
+52,Shark-coas,Sharks - coastal,RAB,VII,3.24E-04
+52,Shark-coas,Sharks - coastal,RAB,VIII,4.70E-05
+52,Shark-coas,Sharks - coastal,RAB,IX,5.00E-06
+52,Shark-coas,Sharks - coastal,RAB,X,1.00E-06
+52,Shark-coas,Sharks - coastal,RAB,XI,0
+52,Shark-coas,Sharks - coastal,CAB,I,0
+52,Shark-coas,Sharks - coastal,CAB,II,0
+52,Shark-coas,Sharks - coastal,CAB,III,0.00224
+52,Shark-coas,Sharks - coastal,CAB,IV,0.00993
+52,Shark-coas,Sharks - coastal,CAB,V,0.0075
+52,Shark-coas,Sharks - coastal,CAB,VI,0.00217
+52,Shark-coas,Sharks - coastal,CAB,VII,0.000414
+52,Shark-coas,Sharks - coastal,CAB,VIII,0.000062
+52,Shark-coas,Sharks - coastal,CAB,IX,0.000008
+52,Shark-coas,Sharks - coastal,CAB,X,0.000001
+52,Shark-coas,Sharks - coastal,CAB,XI,0
+53,Shark-pel,Sharks - pelagic,RAB,I,0
+53,Shark-pel,Sharks - pelagic,RAB,II,0.00171
+53,Shark-pel,Sharks - pelagic,RAB,III,0.00255
+53,Shark-pel,Sharks - pelagic,RAB,IV,0.0125
+53,Shark-pel,Sharks - pelagic,RAB,V,0.0109
+53,Shark-pel,Sharks - pelagic,RAB,VI,0.00327
+53,Shark-pel,Sharks - pelagic,RAB,VII,5.93E-04
+53,Shark-pel,Sharks - pelagic,RAB,VIII,8.60E-05
+53,Shark-pel,Sharks - pelagic,RAB,IX,1.10E-05
+53,Shark-pel,Sharks - pelagic,RAB,X,1.00E-06
+53,Shark-pel,Sharks - pelagic,RAB,XI,0
+53,Shark-pel,Sharks - pelagic,CAB,I,0
+53,Shark-pel,Sharks - pelagic,CAB,II,0.000599
+53,Shark-pel,Sharks - pelagic,CAB,III,0.000781
+53,Shark-pel,Sharks - pelagic,CAB,IV,0.00395
+53,Shark-pel,Sharks - pelagic,CAB,V,0.00398
+53,Shark-pel,Sharks - pelagic,CAB,VI,0.00142
+53,Shark-pel,Sharks - pelagic,CAB,VII,0.000269
+53,Shark-pel,Sharks - pelagic,CAB,VIII,0.000041
+53,Shark-pel,Sharks - pelagic,CAB,IX,0.000005
+53,Shark-pel,Sharks - pelagic,CAB,X,0
+53,Shark-pel,Sharks - pelagic,CAB,XI,0
+54,HMS,Large pelagics (HMS),RAB,I,0
+54,HMS,Large pelagics (HMS),RAB,II,0
+54,HMS,Large pelagics (HMS),RAB,III,0.12
+54,HMS,Large pelagics (HMS),RAB,IV,0.242
+54,HMS,Large pelagics (HMS),RAB,V,0.0985
+54,HMS,Large pelagics (HMS),RAB,VI,0.0164
+54,HMS,Large pelagics (HMS),RAB,VII,0.00217
+54,HMS,Large pelagics (HMS),RAB,VIII,2.40E-04
+54,HMS,Large pelagics (HMS),RAB,IX,1.40E-05
+54,HMS,Large pelagics (HMS),RAB,X,0
+54,HMS,Large pelagics (HMS),RAB,XI,0
+54,HMS,Large pelagics (HMS),CAB,I,0
+54,HMS,Large pelagics (HMS),CAB,II,0
+54,HMS,Large pelagics (HMS),CAB,III,0.0713
+54,HMS,Large pelagics (HMS),CAB,IV,0.23
+54,HMS,Large pelagics (HMS),CAB,V,0.147
+54,HMS,Large pelagics (HMS),CAB,VI,0.024
+54,HMS,Large pelagics (HMS),CAB,VII,0.00345
+54,HMS,Large pelagics (HMS),CAB,VIII,0.000362
+54,HMS,Large pelagics (HMS),CAB,IX,0.000019
+54,HMS,Large pelagics (HMS),CAB,X,0.000001
+54,HMS,Large pelagics (HMS),CAB,XI,0
+55,Pinn,Pinnipeds,RAB,I,0
+55,Pinn,Pinnipeds,RAB,II,0
+55,Pinn,Pinnipeds,RAB,III,0.0454
+55,Pinn,Pinnipeds,RAB,IV,0.156
+55,Pinn,Pinnipeds,RAB,V,0.097
+55,Pinn,Pinnipeds,RAB,VI,0.0217
+55,Pinn,Pinnipeds,RAB,VII,0.00362
+55,Pinn,Pinnipeds,RAB,VIII,4.88E-04
+55,Pinn,Pinnipeds,RAB,IX,5.40E-05
+55,Pinn,Pinnipeds,RAB,X,5.00E-06
+55,Pinn,Pinnipeds,RAB,XI,0
+55,Pinn,Pinnipeds,CAB,I,0
+55,Pinn,Pinnipeds,CAB,II,0
+55,Pinn,Pinnipeds,CAB,III,0.0195
+55,Pinn,Pinnipeds,CAB,IV,0.0887
+55,Pinn,Pinnipeds,CAB,V,0.065
+55,Pinn,Pinnipeds,CAB,VI,0.016
+55,Pinn,Pinnipeds,CAB,VII,0.00282
+55,Pinn,Pinnipeds,CAB,VIII,0.000391
+55,Pinn,Pinnipeds,CAB,IX,0.000044
+55,Pinn,Pinnipeds,CAB,X,0.000004
+55,Pinn,Pinnipeds,CAB,XI,0
+56,Bwhale,Baleen whales,RAB,I,0
+56,Bwhale,Baleen whales,RAB,II,0.0305
+56,Bwhale,Baleen whales,RAB,III,1.548
+56,Bwhale,Baleen whales,RAB,IV,0.645
+56,Bwhale,Baleen whales,RAB,V,0.128
+56,Bwhale,Baleen whales,RAB,VI,0.0211
+56,Bwhale,Baleen whales,RAB,VII,0.00253
+56,Bwhale,Baleen whales,RAB,VIII,2.15E-04
+56,Bwhale,Baleen whales,RAB,IX,1.60E-05
+56,Bwhale,Baleen whales,RAB,X,0
+56,Bwhale,Baleen whales,RAB,XI,0
+56,Bwhale,Baleen whales,CAB,I,0
+56,Bwhale,Baleen whales,CAB,II,0.0192
+56,Bwhale,Baleen whales,CAB,III,0.923
+56,Bwhale,Baleen whales,CAB,IV,0.445
+56,Bwhale,Baleen whales,CAB,V,0.087
+56,Bwhale,Baleen whales,CAB,VI,0.0165
+56,Bwhale,Baleen whales,CAB,VII,0.00199
+56,Bwhale,Baleen whales,CAB,VIII,0.000194
+56,Bwhale,Baleen whales,CAB,IX,0.000017
+56,Bwhale,Baleen whales,CAB,X,0
+56,Bwhale,Baleen whales,CAB,XI,0
+57,Odont,Odontocetes,RAB,I,0
+57,Odont,Odontocetes,RAB,II,0
+57,Odont,Odontocetes,RAB,III,0.87
+57,Odont,Odontocetes,RAB,IV,3.384
+57,Odont,Odontocetes,RAB,V,1.871
+57,Odont,Odontocetes,RAB,VI,0.405
+57,Odont,Odontocetes,RAB,VII,0.0652
+57,Odont,Odontocetes,RAB,VIII,0.00882
+57,Odont,Odontocetes,RAB,IX,9.46E-04
+57,Odont,Odontocetes,RAB,X,9.10E-05
+57,Odont,Odontocetes,RAB,XI,0
+57,Odont,Odontocetes,CAB,I,0
+57,Odont,Odontocetes,CAB,II,0
+57,Odont,Odontocetes,CAB,III,0.0815
+57,Odont,Odontocetes,CAB,IV,0.398
+57,Odont,Odontocetes,CAB,V,0.297
+57,Odont,Odontocetes,CAB,VI,0.0679
+57,Odont,Odontocetes,CAB,VII,0.0121
+57,Odont,Odontocetes,CAB,VIII,0.00167
+57,Odont,Odontocetes,CAB,IX,0.000188
+57,Odont,Odontocetes,CAB,X,0.000019
+57,Odont,Odontocetes,CAB,XI,0
+58,Seabird,Seabird,RAB,I,0
+58,Seabird,Seabird,RAB,II,0
+58,Seabird,Seabird,RAB,III,0.0197
+58,Seabird,Seabird,RAB,IV,0.0581
+58,Seabird,Seabird,RAB,V,0.0288
+58,Seabird,Seabird,RAB,VI,0.00571
+58,Seabird,Seabird,RAB,VII,8.76E-04
+58,Seabird,Seabird,RAB,VIII,1.10E-04
+58,Seabird,Seabird,RAB,IX,1.00E-05
+58,Seabird,Seabird,RAB,X,1.00E-06
+58,Seabird,Seabird,RAB,XI,0
+58,Seabird,Seabird,CAB,I,0
+58,Seabird,Seabird,CAB,II,0
+58,Seabird,Seabird,CAB,III,0.0131
+58,Seabird,Seabird,CAB,IV,0.0301
+58,Seabird,Seabird,CAB,V,0.0176
+58,Seabird,Seabird,CAB,VI,0.00378
+58,Seabird,Seabird,CAB,VII,0.000618
+58,Seabird,Seabird,CAB,VIII,0.000079
+58,Seabird,Seabird,CAB,IX,0.000008
+58,Seabird,Seabird,CAB,X,0.000001
+58,Seabird,Seabird,CAB,XI,0
+59,Detritus,Detritus,RAB,I,3123
+59,Detritus,Detritus,RAB,II,0
+59,Detritus,Detritus,RAB,III,0
+59,Detritus,Detritus,RAB,IV,0
+59,Detritus,Detritus,RAB,V,0
+59,Detritus,Detritus,RAB,VI,0
+59,Detritus,Detritus,RAB,VII,0
+59,Detritus,Detritus,RAB,VIII,0
+59,Detritus,Detritus,RAB,IX,0
+59,Detritus,Detritus,RAB,X,0
+59,Detritus,Detritus,RAB,XI,0
+59,Detritus,Detritus,CAB,I,3079
+59,Detritus,Detritus,CAB,II,0
+59,Detritus,Detritus,CAB,III,0
+59,Detritus,Detritus,CAB,IV,0
+59,Detritus,Detritus,CAB,V,0
+59,Detritus,Detritus,CAB,VI,0
+59,Detritus,Detritus,CAB,VII,0
+59,Detritus,Detritus,CAB,VIII,0
+59,Detritus,Detritus,CAB,IX,0
+59,Detritus,Detritus,CAB,X,0
+59,Detritus,Detritus,CAB,XI,0
